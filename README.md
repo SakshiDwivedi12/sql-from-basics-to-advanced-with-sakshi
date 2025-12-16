@@ -5,7 +5,7 @@ This repository documents my end-to-end SQL learning journey, focused on buildin
 The learning approach emphasizes conceptual clarity and practical implementation, covering how SQL works internally and how it is applied in enterprise data environments. Instead of relying only on theory, the focus is on writing efficient queries, understanding execution logic, and solving real business problems using SQL.
 The content and projects in this repository are inspired by real-world data use cases commonly seen in data analytics, business intelligence, and software engineering roles.
 
-What I Learned
+**What I Learned?**
 SQL Fundamentals & Querying
 Understanding relational databases and SQL architecture
 Writing queries using SELECT, FROM, WHERE, DISTINCT, ORDER BY, TOP
@@ -22,38 +22,45 @@ Multi-table analysis using INNER, LEFT, RIGHT, FULL, and CROSS joins
 Set operations: UNION, INTERSECT, EXCEPT
 Aggregation using COUNT, SUM, AVG, MIN, MAX
 
-Advanced Analytics
+**Advanced Analytics**
 
-Window functions: ROW_NUMBER, RANK, DENSE_RANK, LAG, LEAD
+**Window functions:** ROW_NUMBER, RANK, DENSE_RANK, LAG, LEAD
 Subqueries and nested queries
 Common Table Expressions (CTEs) – recursive and non-recursive
 
-Database Objects & Optimization
+**Database Objects & Optimization**
+
 Views, temporary tables, stored procedures, and triggers
 Query optimization techniques
 Understanding indexing and performance considerations
 
-SQL & AI Tools
+**SQL & AI Tools**
+
 Using AI tools to generate, explain, debug, and optimize SQL queries
 Improving code readability and documentation with AI assistance
 
-Hands-On Projects
+**Hands-On Projects**
 
-SQL Data Warehouse Design
+**SQL Data Warehouse Design**
+
 Designed and implemented a complete SQL-based data warehouse structure similar to enterprise environments.
 
-SQL for Data Analysis (EDA)
+**SQL for Data Analysis (EDA)**
+
 Performed exploratory data analysis using SQL to extract insights, trends, and summary reports from real datasets.
 
-Advanced Query Optimization
+**Advanced Query Optimization**
+
 Solved complex SQL challenges and practiced performance tuning on large datasets.
 
-Databases Used
+**Databases Used**
+
 SQL Server (primary focus)
 MySQL and PostgreSQL (concepts applicable across systems)
 The goal is to build database-agnostic SQL skills that can be applied across different platforms.
 
-Who This Repository Is For
+**Who This Repository Is For**
+
 Beginners building a strong SQL foundation
 Data analysts and BI professionals
 Data engineers working with databases and ETL pipelines
